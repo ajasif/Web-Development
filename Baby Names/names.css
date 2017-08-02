@@ -1,0 +1,28 @@
+/*
+Asif Jamal
+CSE 154, CE
+TA: Brian Griffith
+06/03/2014
+Description: Handles the stylying for the babynames page. 
+*/
+
+body, #allnames, button {
+	font-size: 12pt;
+	font-family: Georgia, serif;
+}
+
+q {
+	font-style: italic;
+}
+
+td {
+	vertical-align: bottom;
+	height: 250px;
+}
+
+td div {
+	background-color: #FFBBBB;
+	font-weight: bold;
+	text-align: center;
+	width: 50px;
+}

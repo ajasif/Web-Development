@@ -1,0 +1,65 @@
+/*
+ Asif Jamal
+ 5/13/214
+ CSE 154, CE
+ TA: Griffith, Brian J.
+ Description: Describes a common style, format and layout for multiple webpages.
+*/
+
+body {
+	background-color: #dad9d4;
+	margin: 0;
+	font-size: 18px;
+}
+
+#main {
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	font-style: Arial, sans-serif;
+}
+
+table {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	border: 2px solid #dad9d4;
+	border-collapse: collapse;
+}
+
+th {
+	font-weight: bold;
+}
+
+#movie {
+	width: 45em;
+}
+
+tr:nth-child(even) {
+	background-color: #dad9d4;
+}
+
+#frame {
+	margin: 5%;
+	margin-top: 0;
+	background-color: white;
+}
+
+form {
+	width: 24em;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 1em;
+}
+
+#banner, #w3c {
+	background-image: url("https://webster.cs.washington.edu/images/kevinbacon/banner-background.png");
+	background-repeat: repeat-x;
+	padding: 15px;
+}
+
+#banner {
+	color: white;
+	font-weight: bold;
+	font-size: 18px;
+}
