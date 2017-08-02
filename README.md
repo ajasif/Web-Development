@@ -1,4 +1,4 @@
-Web based using HTML, CSS, JavaScript and PHP
+Web based projects using HTML, CSS, JavaScript and PHP
 
 # NerdLuv
 
