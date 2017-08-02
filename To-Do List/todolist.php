@@ -1,8 +1,5 @@
 <?php 
 	# Asif Jamal
-	# CSE 154, CE
-	# TA: Griffith, Brian J.
-	# SN: 1231056
 	# Description: Allows the user to add and delete information from a list.
 	
 	# If the user is not logged in they are sent back to the homepage.

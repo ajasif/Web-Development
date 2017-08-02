@@ -1,8 +1,5 @@
 <?php
 	# Asif Jamal
-	# CSE 154, CE
-	# TA: Griffith, Brian J.
-	# SN: 1231056
 	# Description: Handles the information that is submitted from the todolist. 
 	
 	# Checks whether parameters are valid.

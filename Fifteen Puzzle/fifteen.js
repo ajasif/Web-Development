@@ -1,7 +1,4 @@
 // Asif Jamal
-// CSE 154, CE
-// TA: Brian Griffith
-// 5/28/2014
 // Description: This page controls the dynamics for the fifteen puzzle. It controls
 // the logic behind making the puzzle pieces move, shuffle, and highlight.
 

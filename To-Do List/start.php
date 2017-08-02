@@ -1,8 +1,5 @@
 <?php 
 	# Asif Jamal
-	# CSE 154, CE
-	# TA: Griffith, Brian J.
-	# SN: 1231056
 	# Description: This file displays the front page of a todolist website where a user
 	# can enter their username and password.
 	

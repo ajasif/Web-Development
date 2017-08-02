@@ -1,8 +1,5 @@
 <?php 
 	#Asif Jamal
-	#CSE 154, CE
-	#TA: Griffith, Brian J.
-	#SN: 1231056	
 	#Description: Creates a page which allows existing users to log in and check their dating matches.
 
 	#Links to file containing functions for code which is common in multiple programs.

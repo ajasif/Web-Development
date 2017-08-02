@@ -1,7 +1,4 @@
 // Asif Jamal
-// CSE 154: CE
-// TA: Brian
-// 5/21/2014
 // Description: Controls the dynamic events that occur after the user interacts with 
 // the webpage such as adjusting the speed of the animaton, its size, and making
 // the frames animate.

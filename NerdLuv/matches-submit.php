@@ -1,8 +1,5 @@
 <?php 
 	#Asif Jamal
-	#CSE 154, CE
-	#TA: Griffith, Brian J.
-	#SN: 1231056	
 	#Description: Receives data from matches.php and show's the user's matches.
 
 	#Links to file containing functions for code which is common in multiple programs.

@@ -1,8 +1,5 @@
 <?php 
 # Asif Jamal
-# 5/13/214
-# CSE 154, CE
-# TA: Griffith, Brian J.
 # Description: Finds the list of movies which both the actor and Kevin Bacon have
 # participated in and outputs them as a table.
 

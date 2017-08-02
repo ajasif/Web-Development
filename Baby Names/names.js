@@ -1,7 +1,4 @@
 // Asif Jamal
-// CSE 154, CE
-// TA: Brian Griffith
-// 06/03/2014
 // Description: This program creates a webpage which allows the user to search for
 // babynames and outputs the names meaning, popularity across multiple years, and 
 // celebrities with the same name.

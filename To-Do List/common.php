@@ -1,8 +1,5 @@
 <?php
 	# Asif Jamal
-	# CSE 154, CE
-	# TA: Griffith, Brian J.
-	# SN: 1231056
 	# Description: Contains the head, bottom/top banners which are common amoung files.
 	
 # Creates a banner for the head with meta, title, and links to css.

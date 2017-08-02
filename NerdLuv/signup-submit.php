@@ -1,8 +1,5 @@
 <?php
 	#Asif Jamal
-	#CSE 154, CE
-	#TA: Griffith, Brian J.
-	#SN: 1231056	
 	#Description: Recieves data from signup.php and signs up the new user with a message.
 
 	#Links to file containing functions for code which is common in multiple programs.

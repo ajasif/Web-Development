@@ -1,8 +1,5 @@
 <?php
 # Asif Jamal
-# 5/13/214
-# CSE 154, CE
-# TA: Griffith, Brian J.
 # Description: Contains the head info, banner with title at the top of the page and
 # banner at the bottom of the page which is common content amoung multiple pages.
 

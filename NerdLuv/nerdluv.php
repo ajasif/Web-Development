@@ -1,8 +1,5 @@
 <?php 
 	#Asif Jamal
-	#CSE 154, CE
-	#TA: Griffith, Brian J.
-	#SN: 1231056
 	#Description: Provides the front page for NerdLuv and links to signup.php and matches.php
 
 	#Links to file containing functions for code which is common in multiple programs.

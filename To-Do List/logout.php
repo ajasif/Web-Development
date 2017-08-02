@@ -1,8 +1,5 @@
 <?php	
 	# Asif Jamal
-	# CSE 154, CE
-	# TA: Griffith, Brian J.
-	# SN: 1231056
 	# Description: Logs out the user and deletes their session information.
 
 	session_start();

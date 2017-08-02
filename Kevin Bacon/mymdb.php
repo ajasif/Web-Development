@@ -1,8 +1,5 @@
 <?php 
 # Asif Jamal
-# 5/13/214
-# CSE 154, CE
-# TA: Griffith, Brian J.
 # Description: Homepage for website which allows the user to search for an actor
 # and links them to a page which outputs its data.
 

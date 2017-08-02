@@ -1,8 +1,5 @@
 <?php 
 	#Asif Jamal
-	#CSE 154, CE
-	#TA: Griffith, Brian J.
-	#SN: 1231056	
 	#Description: Allows the user to signup and create a profile on NerdLuv.
 
 	#Links to file containing functions for code which is common in multiple programs.

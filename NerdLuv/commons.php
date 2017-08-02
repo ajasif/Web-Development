@@ -1,8 +1,5 @@
 <?php
 	#Asif Jamal
-	#CSE 154, CE
-	#TA: Griffith, Brian J.
-	#SN: 1231056	
 	#Description: Contains code such as a top/bottom heading and banner which is common amoung 
 	#multiple web pages: nerdluv, signup, and matches.
  

@@ -1,8 +1,5 @@
 <?php 
 	# Asif Jamal
-	# CSE 154, CE
-	# TA: Griffith, Brian J.
-	# SN: 1231056
 	# Description: Verfies the users identity and takes them to the todolist if they
 	# are a user. If they are not a user but have valid input an account is created
 	# for them otherwise they are brought back to the homepage.

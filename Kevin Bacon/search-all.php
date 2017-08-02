@@ -1,8 +1,5 @@
 <?php 
 # Asif Jamal
-# 5/13/214
-# CSE 154, CE
-# TA: Griffith, Brian J.
 # Description: Finds the complete list of movies in which the actor has played a role
 
 # Inserts code which is common amoung multiple webpages
