@@ -1,5 +1,4 @@
-# Web-Development
-Web Projects using HTML, CSS, JavaScript and PHP
+Web based using HTML, CSS, JavaScript and PHP
 
 # NerdLuv
 
