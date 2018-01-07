@@ -14,11 +14,15 @@ The Six Degrees of Kevin Bacon is a game based upon the theory that every actor 
 
 # ASCIImation
 
-ASCII art is pictures that consist of text characters. ASCII art has a long history as a way to draw pictures for text-only monitors or printers. ASCIImation draws animarted ASCII art. 
+ASCII art is pictures that consist of text characters. ASCII art has a long history as a way to draw pictures for text-only monitors or printers. ASCIImation draws animarted ASCII art.
+
+https://ajasif.github.io/Web-Development/ASCIImation/ascii.html
 
 # Fifteen Puzzle
  
  A simple classic game consisting of a 4x4 grid of numbered squares with one square missing. The object of the game is to arrange the tiles into numerical order by repeatedly sliding a square that neighbors the missing square into its empty space. 
+ 
+https://ajasif.github.io/Web-Development/Fifteen%20Puzzle/fifteen.html
  
  # Baby Names
  
